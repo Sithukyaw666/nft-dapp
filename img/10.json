@@ -1,0 +1,35 @@
+{
+  "name": "NFT Pot 10",
+  "description": "In sandy landscapes, a calm cactus in a ceramic pot embraces tranquility.",
+  "external_url": "",
+  "image": "10.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "sands"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "cactus"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "ceramic-pot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "calm"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "10.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

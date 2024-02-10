@@ -1,0 +1,35 @@
+{
+  "name": "NFT Pot 12",
+  "description": "In the midnight shadows, a curious flower in a cement pot adds a touch of mystery.",
+  "external_url": "",
+  "image": "12.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "midnight"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "flower"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "cement-pot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "curious"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "12.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

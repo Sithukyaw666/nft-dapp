@@ -1,0 +1,112 @@
+{
+  "colletions": [
+    {
+      "id": 0,
+      "name": "Floral Love Oasis #0",
+      "description": "Noon love – flower in clay pot. 'In-love' face.",
+      "external_url": "",
+      "image": "0.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "noon"
+        },
+        {
+          "trait_type": "Plant",
+          "value": "flower"
+        },
+        {
+          "trait_type": "Pot",
+          "value": "clay-pot"
+        },
+        {
+          "trait_type": "Face",
+          "value": "in-love"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "0.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": []
+      },
+      "compiler": "NFTexport.io"
+    },
+    {
+      "id": 1,
+      "name": "Midnight Eucalyptus Bliss #1",
+      "description": "Midnight eucalyptus joy. 'Happy' face.",
+      "external_url": "",
+      "image": "1.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "midnight"
+        },
+        {
+          "trait_type": "Plant",
+          "value": "eucalyptus"
+        },
+        {
+          "trait_type": "Pot",
+          "value": "foam-planter"
+        },
+        {
+          "trait_type": "Face",
+          "value": "happy"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "1.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": []
+      },
+      "compiler": "NFTexport.io"
+    },
+    {
+      "id": 2,
+      "name": "Sylvan Tranquility #2",
+      "description": "Woods tranquility – snake plant, 'calm' face.",
+      "external_url": "",
+      "image": "2.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "woods"
+        },
+        {
+          "trait_type": "Plant",
+          "value": "snake-plant"
+        },
+        {
+          "trait_type": "Pot",
+          "value": "clay-pot"
+        },
+        {
+          "trait_type": "Face",
+          "value": "calm"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "2.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": []
+      },
+      "compiler": "NFTexport.io"
+    }
+  ]
+}

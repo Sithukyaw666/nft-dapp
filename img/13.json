@@ -1,0 +1,35 @@
+{
+  "name": "NFT Pot 13",
+  "description": "In sandy landscapes, a smiling flower in a foam planter radiates happiness.",
+  "external_url": "",
+  "image": "13.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "sands"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "flower"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "foam-planter"
+    },
+    {
+      "trait_type": "Face",
+      "value": "smiling"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "13.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

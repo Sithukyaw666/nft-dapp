@@ -1,0 +1,35 @@
+{
+  "name": "NFT Pot 11",
+  "description": "In the woods, a happy snake plant in a clay pot spreads joy to its surroundings.",
+  "external_url": "",
+  "image": "11.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woods"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "snake-plant"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "clay-pot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "happy"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "11.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "NFT Pot 5",
+  "description": "Under the noonday sun, a curious snake plant in a foam planter explores its surroundings.",
+  "external_url": "",
+  "image": "5.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "noon"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "snake-plant"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "foam-planter"
+    },
+    {
+      "trait_type": "Face",
+      "value": "curious"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "NFT Pot 6",
+  "description": "In sandy landscapes, a happy sprout in a ceramic pot brings joy to the surroundings.",
+  "external_url": "",
+  "image": "6.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "sands"
+    },
+    {
+      "trait_type": "Plant",
+      "value": "sprout"
+    },
+    {
+      "trait_type": "Pot",
+      "value": "ceramic-pot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "happy"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
